@@ -21,7 +21,7 @@ If you choose to detect a video or the video strame from a camera,
 
 compute speed without storing result,using VOC2007 dataset:
 video:     58fps(forward), 18fps(loop)
-one image: 36fps(forward), 19fps(loop)
+one image: 36fps(forward), 18fps(loop)
 images:    73fps(forward), 43fps(loop)
 
 '''
